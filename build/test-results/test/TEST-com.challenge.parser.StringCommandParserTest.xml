@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.challenge.parser.StringCommandParserTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-10-01T10:20:47" hostname="uzzaman-macOS" time="0.002">
+  <properties/>
+  <testcase name="stringLMapsToRotateLeftCommand" classname="com.challenge.parser.StringCommandParserTest" time="0.001"/>
+  <testcase name="stringRMapsToRotateRightCommand" classname="com.challenge.parser.StringCommandParserTest" time="0.0"/>
+  <testcase name="stringToCommandMappingIsCaseInsensitive" classname="com.challenge.parser.StringCommandParserTest" time="0.0"/>
+  <testcase name="nullStringResultsInEmptyCommandList" classname="com.challenge.parser.StringCommandParserTest" time="0.0"/>
+  <testcase name="emptyStringResultsInEmptyCommandList" classname="com.challenge.parser.StringCommandParserTest" time="0.0"/>
+  <testcase name="stringMMapsToMoveCommand" classname="com.challenge.parser.StringCommandParserTest" time="0.0"/>
+  <testcase name="multiCommandStringIsMappedToCommandsInSameOrder" classname="com.challenge.parser.StringCommandParserTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
